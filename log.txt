@@ -1,0 +1,72 @@
+commit d3014411b64511c7fbbd665fa2df406dc96cd416
+Author: Taite <taitelee@umich.edu>
+Date:   Wed Feb 1 14:06:06 2023 -0500
+
+    hello
+
+commit 96893a081128881823b143d48ed40b469024bd15
+Merge: 5919bca ea218fd
+Author: Maya Kusalovic <113320616+mkusalov@users.noreply.github.com>
+Date:   Wed Feb 1 19:03:11 2023 +0000
+
+    Merge branch 'main' of https://github.com/martinstier/eecs280-lab04 into main
+
+commit 5919bca7fb7b8fa65a2d14c2630446b71dc175b0
+Author: Maya Kusalovic <113320616+mkusalov@users.noreply.github.com>
+Date:   Wed Feb 1 19:01:40 2023 +0000
+
+    coder 1 edit file
+
+commit ea218fd6786b9b25ee738b1fe7818597678c1466
+Author: Taite <taitelee@umich.edu>
+Date:   Wed Feb 1 14:01:39 2023 -0500
+
+    <message>
+
+commit 64dc514e404f050927739a441557dd77903ff5a0
+Author: Martín Stier <mastier@umich.edu>
+Date:   Wed Feb 1 14:00:14 2023 -0500
+
+    coder 2 edit file
+
+commit b5e1350ac5b0b41ca14304364aafeb8c1ba0f82c
+Author: Maya Kusalovic <113320616+mkusalov@users.noreply.github.com>
+Date:   Wed Feb 1 18:59:27 2023 +0000
+
+    coder 1 edit file
+
+commit 978f1f305f072893fe4b95f203d8fcf2e645a876
+Author: Maya Kusalovic <113320616+mkusalov@users.noreply.github.com>
+Date:   Wed Feb 1 18:54:15 2023 +0000
+
+    coder 1 add file
+
+commit e69221847a2bdb2af3a6917d2b4c7a15cf4b4693
+Author: Martín Stier <mastier@umich.edu>
+Date:   Wed Feb 1 13:51:36 2023 -0500
+
+    coder 2 add file
+
+commit fb1cd503818bf71168ed7beae3dab529c6c25766
+Author: Martín Stier <mastier@umich.edu>
+Date:   Wed Feb 1 13:43:36 2023 -0500
+
+    resetting
+
+commit d6c4386e9690b45419cb18d45fc3630d5431d221
+Author: Martín Stier <mastier@umich.edu>
+Date:   Wed Feb 1 13:37:15 2023 -0500
+
+    coder 1 and 2 add file
+
+commit 1613738582340a3ae55736be198cbef4cfae2b10
+Author: Martín Stier <mastier@umich.edu>
+Date:   Wed Feb 1 13:28:47 2023 -0500
+
+    modify readme
+
+commit 7c6d75ef6830365245eed0c7e5d9aa43bc4eca34
+Author: Martín Stier-Moses <122941222+martinstier@users.noreply.github.com>
+Date:   Wed Feb 1 13:22:04 2023 -0500
+
+    Initial commit
